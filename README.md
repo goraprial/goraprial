@@ -4,10 +4,15 @@
 - 🌱 I’m currently learning ReactJS
 
   📚 Libraries
+  
   | -> TypeScript
+  
   | -> Material UI  
+  
   | -> Chakra UI
+  
   | -> React Query
+  
   | -> Formik
   
 - 📫 How to reach me: grpa2296@gmail.com
