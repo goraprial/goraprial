@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Gonzalo Prieto
 
-- 🔭 I’m currently working on Tach
+- 🔭 I’m currently working on TodosGamers
 - 🌱 I’m currently learning ReactJS
 
   📚 Libraries
@@ -14,6 +14,8 @@
   | -> React Query
   
   | -> Formik
+
+  | -> Redux
   
 - 📫 How to reach me: grpa2296@gmail.com
 <!--
