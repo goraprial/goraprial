@@ -17,7 +17,7 @@
 
   | -> Redux
   
-- 📫 How to reach me: grpa2296@gmail.com
+- 📫 How to reach me: goraprial@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
