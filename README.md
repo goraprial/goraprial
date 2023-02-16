@@ -6,16 +6,12 @@
   📚 Libraries
   
   | -> TypeScript
-  
-  | -> Material UI  
-  
+  | -> Material UI
   | -> Chakra UI
-  
   | -> React Query
-  
   | -> Formik
-
   | -> Redux
+  | -> NextJs
   
 - 📫 How to reach me: goraprial@gmail.com
 <!--
