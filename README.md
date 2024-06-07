@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Gonzalo Prieto
 
-- 🔭 I’m currently working on TodosGamers
 - 🌱 I’m currently learning ReactJS
 
   📚 Libraries
